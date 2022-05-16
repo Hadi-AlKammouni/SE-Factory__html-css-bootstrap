@@ -61,3 +61,26 @@
     padding-left: 35%;
 }
 /*************************************/
+/*SKILLS*/
+.skillsimage{
+    
+    width:95%;
+}
+.rightskills-para1{
+    font-size: 250%;
+    margin-bottom: 5%;
+}
+.rightskills-para2{
+    font-size: 180%;
+    margin-left: 5%;
+    margin-bottom: 2.5%;
+    width: 90%;  
+}
+#rightskills-link{
+    color:#18ea19;
+    font-size: 200%;
+    margin-left: 5%;
+    border-bottom-style:solid ;
+    border-width: 0.5px;
+}
+/*************************************/
