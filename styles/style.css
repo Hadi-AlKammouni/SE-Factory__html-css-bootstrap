@@ -1,0 +1,51 @@
+.top-page {    
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../assets/presentation.JPG");
+    background-repeat: no-repeat; 
+    background-size: 100% 100%; 
+}
+#upper-header{
+    padding-top: 3%; 
+    margin-bottom: 14%; 
+}
+.se-logo{
+    width: 20%;
+    height: 100%;
+}
+.header-link, a:link{
+    text-decoration: none;
+    color: white;
+}
+.applynow{
+    width: max-content;
+    border:none;
+    color: white;
+    background-color: #43fa2a;
+    border-radius: 10%;
+}
+.learnmore{
+    width:10%;
+    width: fit-content;
+    border:none;
+    font-size: 150%;
+    color: white;
+    background-color: #43fa2a;
+    border-radius: 10%;
+    padding:0.5%;
+    margin-bottom: 5%;
+}
+#header-link1{
+    border-bottom-style: solid;
+    border-width: 0.5px;
+}
+.empowering{
+    font-size: 300%;
+    color: white;
+}
+.ranking{
+    color: white;
+    width: 60%;
+    font-size: 200%;
+    margin-top:2.5%;
+    margin-bottom: 2.5%;
+}
+/*************************************/
