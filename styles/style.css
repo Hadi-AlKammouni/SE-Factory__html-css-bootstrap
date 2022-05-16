@@ -49,3 +49,15 @@
     margin-bottom: 2.5%;
 }
 /*************************************/
+.stats-main-heading{
+    color: #18ea19;
+    font-size: 400%;
+    margin-bottom: 10%;
+    padding-left: 40%;
+    padding-top: 20%;
+}
+.stats-minor-heading{
+    font-size: 200%;
+    padding-left: 35%;
+}
+/*************************************/
